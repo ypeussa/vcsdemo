@@ -3,3 +3,5 @@ pakene securitasta
 häpeä
 ???
 profit
+
+RUN !??
